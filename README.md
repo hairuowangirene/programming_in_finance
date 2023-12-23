@@ -1,0 +1,1 @@
+This is the weekly practice for the graduated programming in finance course and the problem sets include the data explore, data visualization, quantitative trading strategies building, which including mean reversion strategy and momentum strategy, and applying machine learning predictive models for predicting stock returns.
